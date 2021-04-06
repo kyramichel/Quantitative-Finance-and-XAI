@@ -1,8 +1,8 @@
 # Math_Finance: Markets Performance Models
 
 
-## Another way to open jupiter notebooks on github.com is to use nbviewer: 
-- Open https://nbviewer.jupyter.org/
-- Copy & Paste the link to the .ipynb notebook on github (for example: https://github.com/kyramichel/Math_Finance/blob/master/Coupon%20Bonds1.ipynb)
+## If you can't open a Jupyter notebook on github, use nbviewer:
 
-Voila!
+1. Copy the link to a .ipynb notebook on github (For example: copy https://github.com/kyramichel/Math_Finance/blob/master/Coupon%20Bonds1.ipynb)
+2. Open https://nbviewer.jupyter.org/ then paste the link to the .ipynb notebook there.
+Easy!
