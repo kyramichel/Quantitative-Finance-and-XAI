@@ -1,6 +1,4 @@
-# Math_Finance
-
-Markets Performance Models
+# Math_Finance: Markets Performance Models
 
 
 ## Another way to open jupiter notebooks on github.com is to use nbviewer: 
