@@ -1,4 +1,4 @@
-# Math_Finance: Markets Performance Models
+# Math_Finance
 
 
 
